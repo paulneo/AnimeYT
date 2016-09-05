@@ -1,0 +1,125 @@
+body{
+    margin:0;
+    background: #222;
+}
+.header{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 57px;
+}
+.logotipo{
+    width: 121px;
+}
+a{
+    text-decoration: none;
+}
+
+p{ 
+    color: white;
+}
+.buscador{
+    font-size: 25px;
+    margin-top: 4px;
+    width: 100px;
+    background: rgba(255,255,255,0.3);
+    border: 0px;
+}
+#search{
+    position: absolute;
+    color: white;
+    background: red;
+    font-size: 14px;
+    padding: 8.3px;
+    margin-bottom: 0px;
+    right: 76.2px;
+    top: 15.8px;
+}
+.anime{
+    background: #111;
+}
+.contenido{
+    display: flex;
+    align-items: center;
+    padding-bottom: 16px;
+    justify-content: space-around;
+    padding-top: 40px;
+}
+.header{
+    display: flex;
+    justify-content: space-around;
+}
+.logo{
+    width: 70%;
+}
+.Mainnav nav{
+    display: flex;
+}
+.Mainnav-element{
+    list-style: none;
+    margin-right: 14px;
+}
+.Mainnav-element a{
+    color:white;
+    text-decoration: none;
+}
+.left-header{
+    display: flex;
+    justify-content: space-around;
+    align-content: center;
+    align-items: center;
+    margin-left: -33%;
+}
+.Mainnav-lista{
+    display: flex;
+}
+.naruto{
+    font-size: 16px;
+    width: 53%;
+    margin-left: 127px;
+}
+.texto{
+    width: 94%;
+}
+.capitulos{
+    margin-right: 80px;
+}
+#left{
+    position: absolute;
+    bottom: 60%;
+    left: 4%;
+    font-size: 20px;
+    color: white;
+}
+#right{
+    position: absolute;
+    right: 3%;
+    font-size: 20px;
+    color: white;
+    bottom: 60%;
+}
+.opciones{
+    padding-left: 61px;
+    padding-right: 61px;
+}
+.name{
+    font-size: 14px;
+    position: absolute;
+    top: 108%;
+}
+.recientes a{
+    width: 30px;
+    padding-bottom: 79px;
+
+}
+.texto-grande{
+    text-align: center;
+    padding: 30px;
+    color: white;
+    border-bottom: 1px solid white;
+}
+.content{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
